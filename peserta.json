@@ -20,6 +20,11 @@
 {
     "name":"Putri",
     "kelas":"C"
+},
+{
+    "name":"Rachmad",
+    "kelas":"C",
+    "kota":"surabaya"
 }
 
    ]
