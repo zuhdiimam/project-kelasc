@@ -8,6 +8,18 @@ body{
     text-align: center;
     background-color: salmon;
 }
-h1{
-    color: rgb(200, 222, 232);
+.title{
+    margin: 150px 75px 10px;
+    color: #02351d;
+    text-shadow: 3px 2px 2px rgba(131, 188, 221, 0.8);
+    transition: 0.5s;
+}
+p{
+    background-color: rgba(181, 223, 247, 0.2);
+    border-radius: 5px;
+    margin: 24px 175px;
+    float: right;
+    line-height: 24px;
+    letter-spacing: 3px;
+    width: 35%;
 }
