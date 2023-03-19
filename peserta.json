@@ -6,27 +6,6 @@
       "kota": "Surabaya"
     },
     {
-      "name": "Yudi",
-      "kelas": "C"
-    },
-    {
-      "name": "Rachmad Irawan",
-      "kelas": "C"
-    },
-    {
-      "name": "Yanto",
-      "kelas": "C"
-    },
-    {
-      "name": "Putri",
-      "kelas": "C"
-    },
-    {
-      "name": "Rachmad",
-      "kelas": "C",
-      "kota": "surabaya"
-    },
-    {
       "name": "Galang Sumantri",
       "kelas": "C",
       "kota": "Kulon Progo"
@@ -37,10 +16,15 @@
       "kabupaten": "Bekasi"
     },
     {
-      "name": "Regi Ridho Biyantomo",
+      "name": "Mardhani Dwi Novianto",
+      "kelas": "C",
+      "kabupaten": "Purworejo"
+     }, 
+    {
+    "name": "Regi Ridho Biyantomo",
       "kelas": "C",
       "kota": "Pontianak"
-    }
+    },
     {
       "name": "Cristmas Anggario",
       "kelas": "C",
