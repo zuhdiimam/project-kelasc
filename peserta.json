@@ -49,6 +49,11 @@
       "name": "Indita Pryatama P",
       "kelas": "C",
       "kota": "Jakarta"
-    }
+    },
+    {
+      "name" : "Aris Hariyanto",
+      "kelas": "C",
+      "kota" : "Lampung Selatan"
+    },
   ]
 }
