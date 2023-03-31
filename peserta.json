@@ -55,5 +55,15 @@
       "kelas": "C",
       "kota" : "Lampung Selatan"
     },
+    {
+      "name": "Muhammad Azhar Rizki",
+      "kelas": "C",
+      "kota": "Klaten"
+     },
+     {
+      "name": "Lukby Kiyad Prihatini",
+      "kelas": "C",
+      "kota": "Makassar"
+    }
   ]
 }
